@@ -1,0 +1,31 @@
+.signup {
+    height: 85vh;
+}
+
+.signup-header h2 {
+    font-size: 6rem;
+    color: #4A90E2;
+}
+
+.signup-form {
+    border-left: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-form input {
+    width: 15rem;
+}
+
+.signup-btn {
+    color: black;
+}
+
+@media screen and (max-width: 768px) {
+    .signup-form {
+        padding-top: 15px;
+        border-left: none;
+        border-top: 2px solid black;
+    }
+}

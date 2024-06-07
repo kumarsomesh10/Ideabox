@@ -1,0 +1,15 @@
+/* 
+  --primary-color: #4A90E2;
+  --background-color: #F5F5F5;
+  --text-color: #333333;
+  --secondary-text-color: #555555;
+  --success-color: #27AE60;
+  --warning-color: #F39C12;
+  --danger-color: #E74C3C;
+  --light-background: #EAF2FB;
+  --border-color: #D1D5DB;
+*/
+
+*{
+    background-color: #F5F5F5;
+}

@@ -1,0 +1,12 @@
+.home{
+    width: 100%;
+    min-height: 85vh;
+}
+
+.home-btn{
+    background-color: #4A90E2;
+    border-radius: 7px;
+    padding: 8px;
+    border: none;
+    width: 10%;
+}

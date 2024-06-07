@@ -1,0 +1,27 @@
+/* 
+  --primary-color: #4A90E2;
+  --background-color: #F5F5F5;
+  --text-color: #333333;
+  --secondary-text-color: #555555;
+  --success-color: #27AE60;
+  --warning-color: #F39C12;
+  --danger-color: #E74C3C;
+  --light-background: #EAF2FB;
+  --border-color: #D1D5DB;
+*/
+
+.ideabook{
+    color: #4A90E2;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.nav-btn{
+    background-color: #4A90E2;
+    border-radius: 7px;
+}
+
+.nav-icon img{
+    width: 25px;
+    height: 25px;
+}

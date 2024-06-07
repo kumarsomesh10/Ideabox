@@ -1,0 +1,31 @@
+.signin{
+    height: 85vh;
+}
+
+.signin-header h2{
+    font-size: 6rem;
+    color: #4A90E2;
+}
+
+.signin-form{
+    border-left: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signin-form input{
+    width: 15rem;
+}
+
+.signin-btn{
+    color: black;
+}
+
+@media screen and (max-width: 768px) {
+    .signin-form {
+        padding-top: 15px;
+        border-left: none;
+        border-top: 2px solid black;
+    }
+}
